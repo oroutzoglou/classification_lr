@@ -2,7 +2,8 @@ classification_lr
 ========= 
 Binary classification with logistic regression model.
 
-python,ipython, numpy, matplotlib, scipy, and cython required
+python,ipython, numpy, matplotlib, scipy, and cython required.
+
 To run the classification run:
 <code>$ python logistic_regression_NN.py</code>
 
